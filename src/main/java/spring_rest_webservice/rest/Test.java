@@ -6,6 +6,6 @@ public class Test {
 		// TODO Auto-generated constructor stub
 	}
 	
-	dsfsfdsf
+	private test();
 
 }
